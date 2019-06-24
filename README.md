@@ -9,3 +9,7 @@ This directory contains code to generate Figures this study
 
 # Scripts
 This notebook contains ipynb and and .py python scripts developed during the project to process variants 
+
+
+# djPyi2
+This is a python package that I made to help with this project, and has some useful functions. Code will not be runnable without this package.
