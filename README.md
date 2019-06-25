@@ -1,3 +1,10 @@
+<object type='image/png+xml' data='media/logos.png'>
+    <object type='image/png+xml' data='media/logos.png'>
+    	<img src='media/logos.png', onerror='this.src="media/logos.png"'>
+    </object><br>
+</object>
+
+
 # i2QTL-SV-STR-analysis 
 Code used to process and analyze structural variation (SVs) and short tandem repeat variation (STRs) as part of the i2QTL Consortium. Variants were identified in 719 deeply sequenced whole genomes combining data from two large iPSC collections, iPSCORE (Frazer lab) and HipSci. 
 
